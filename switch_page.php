@@ -40,4 +40,3 @@ function page_link(){
     </ul>
 <?php
 }
-//EOF
