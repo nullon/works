@@ -40,4 +40,4 @@ function page_link(){
     </ul>
 <?php
 }
-//みんな死んじゃえばいいのに
+//EOF
